@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>Metropolitan Univarsity Bus Service</title>
+    <!-- BootStrap Link -->
+    <link type="text/css" rel="stylesheet" href="d:\Project 300\All CSS file\bootstrap.min.css">
+    <!-- Custom Link -->
+    <link type="text/css" rel="stylesheet" href="d:\Project 300\All CSS file\main.css">
+    <link type="text/css" rel="stylesheet" href="d:\Project 300\All CSS file\custom.css">
+    <link type="text/css" rel="stylesheet" href="d:\Project 300\All CSS file\colorf972.css">
+
+</head>
+<body>
+        <section class="route-details-section padding-top padding-bottom wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+            <div class="container">
+                <div class="col">
+                <br>
+                </div>
+                <div class="row mb-4 mb-md-5 gy-4 wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+                    <div class="row row-cols-1 row-cols-md-2 g-4">
+                                <div class="col">
+                                    <div class="card mb-3">
+                                        <div class="row g-0">
+                                            <div class="col-md-4">
+                                                
+                                                <img class="lazy-load img img-circle" data-src="#" src="#" alt="#" style="width: 100px; opacity: 1;">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <div class="card-body text-left p-1">
+                                                    <h5 class="card-title" style="color: #f15f23 ">Driver Name</h5>
+                                                    <h6 class="card-text pb-3">Driver</h6>
+                                                    <h6 class="card-text" style="color: #272264"><i class="fa fa-phone"></i>
+                                                        Phone Number
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                </div>
+                <div class="row mb-4 mb-md-5 gy-4 wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+                    <div class="row row-cols-1 row-cols-md-2 g-4">
+                        <div class="col-md-12">
+                            <table class="table table-bordered table-hover table-stripe">
+                                <tbody><tr style="background-color:skyblue">
+                                    <th style="font-size: 25px !important;"><i class="fa fa-user"></i> &nbsp;Route Name</th>
+                                    <th style="font-size: 25px !important;"><i class="fa fa-phone"></i> &nbsp;Vehicle Number</th>
+                                </tr>
+                                                                <tr>
+                                        <td style="font-size: 20px !important;">Chandi Pul</td>
+                                        <td style="font-size: 20px !important;">Vehicle Number</td>
+                                    </tr>
+                            </tbody></table>
+                            <div class="col-md-8">
+                                <div class="card-body text-left p-1">
+                                    <h5 class="card-title" style="color: #f15f23 "><p>See the live location <a href="#live location link">hare</a></p></h5>
+                                    </h6>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </section>
+</html>
